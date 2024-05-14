@@ -1,0 +1,3 @@
+Command: help
+Command: ls
+Command: exit

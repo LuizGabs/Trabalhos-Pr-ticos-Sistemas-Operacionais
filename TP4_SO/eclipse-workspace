@@ -1,0 +1,17 @@
+Comando: pwd
+Comando: cd ..
+Comando: exit
+Comando: cd ..
+Comando: exit
+Comando: cd ..
+Comando: exit
+Comando: cd ..
+Comando: cd ..
+Comando: cd eclipse-workspace
+Comando: cd tp4_so
+Comando: exit
+Comando: mv teste.txt renomeiou.txt
+Comando: rm renomeiou.txt
+Comando: pwd
+Comando: cd ..
+Comando: exit
